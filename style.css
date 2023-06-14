@@ -1,0 +1,97 @@
+
+
+body{background-image: url(./image/photo_2023-06-13_09-14-51.jpg);
+display: flex;
+justify-self: center;
+
+}
+.secondDiv{           
+width: 350px;
+border-bottom: 1px solid grey;    
+} 
+.completed {
+    border-bottom: 1px solid grey;;
+    margin-bottom: 10px  
+
+}
+.blockDel{
+    margin-left: auto;
+}
+.newInput{
+    border-radius: 5px;
+    margin: 0px 0px 30px 60px;
+    font-size: 15px;
+    font-style: italic;
+}
+.bigDiv{
+    width: 1110px;
+    height: 780px;
+    margin: auto;
+    display: flex; 
+    background-image: url(./image/1619318132_49-phonoteka_org-p-fon-dlya-prezentatsii-bloknot-s-pruzhinoi-63.png); 
+    background-size: cover;  
+    background-repeat: no-repeat;     
+}
+.delCard{
+    float: right;
+}
+.willDo{
+    width:350px;
+    margin: 73px 0px 0px 140px;      
+}
+.done{
+    width: 340px;  
+    margin: 100px 30px 20px 120px;
+    background-size: cover;  
+    background-repeat: no-repeat;          
+}
+.data{
+    font-style: italic;
+}
+.blockText{   
+    font-size: 30px;
+    font-style: italic;
+    display: flex;
+    align-items: center;
+    padding: 10px;   
+}
+
+.blockTime{
+display: flex;
+
+font-style: italic;
+}
+.newButton{
+margin-bottom: 40px;
+}
+.buttonDate{
+
+height: 20px;
+}
+.form{
+margin-left: auto;
+display: grid;
+
+}
+.alert{
+color: red;
+font-style: italic;
+margin-top: 0px;
+}
+.timeEnd{
+margin-bottom: 10px;
+}
+.label{
+font-size: 10px;
+color: gray;
+text-align: center;
+}
+.end{
+font-style: italic;
+margin-top: 0px;
+}
+
+.secondDivNoText{
+    border-bottom: none;
+}
+
