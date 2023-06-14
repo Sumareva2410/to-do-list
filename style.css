@@ -10,8 +10,8 @@ width: 350px;
 border-bottom: 1px solid grey;    
 } 
 .completed {
-    border-bottom: 1px solid grey;;
-    margin-bottom: 10px  
+    border-bottom: 1px solid grey;
+    margin-bottom: 10px;  
 
 }
 .blockDel{
